@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/jewellery-store/static/css/main.8b19415f.css",
-    "main.js": "/jewellery-store/static/js/main.27ec3006.js",
+    "main.js": "/jewellery-store/static/js/main.ef9716c0.js",
     "static/js/787.571b2b59.chunk.js": "/jewellery-store/static/js/787.571b2b59.chunk.js",
+    "static/media/slider-3.jpg": "/jewellery-store/static/media/slider-3.6eedd2ca4a3e72d8ce3f.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/jewellery-store/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/slider-2.jpg": "/jewellery-store/static/media/slider-2.39bdc56a52536fa0219a.jpg",
     "static/media/fontawesome-webfont.eot": "/jewellery-store/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/jewellery-store/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/jewellery-store/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
@@ -11,11 +13,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/jewellery-store/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/jewellery-store/index.html",
     "main.8b19415f.css.map": "/jewellery-store/static/css/main.8b19415f.css.map",
-    "main.27ec3006.js.map": "/jewellery-store/static/js/main.27ec3006.js.map",
+    "main.ef9716c0.js.map": "/jewellery-store/static/js/main.ef9716c0.js.map",
     "787.571b2b59.chunk.js.map": "/jewellery-store/static/js/787.571b2b59.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b19415f.css",
-    "static/js/main.27ec3006.js"
+    "static/js/main.ef9716c0.js"
   ]
 }
