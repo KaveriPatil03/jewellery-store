@@ -3,6 +3,9 @@ import React from 'react';
 // import slider1 from '../img/slider1.jpg'
 import Product from './Product';
 import NewProducts from './NewProducts';
+import slider1 from '../img/slider1.jpg';
+import slider2 from '../img/slider-2.jpg';
+import slider3 from '../img/slider-3.jpg';
 
 const Home = () => {
     return (
@@ -18,27 +21,27 @@ const Home = () => {
                     </div>
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img src="../img/slider1.jpg" alt="iPhone" className="d-block w-100" height={'500px'} />
+                            <img src={slider1} alt="jewellery" className="d-block w-100" height={'500px'} />
                             <div class="carousel-caption  d-md-block">
                                 <h1>Jewellery that you’ll love</h1>
                                 <p>We provide a wide variety of jewelry, from earrings to bracelets. At Olimp, you will
                                     surely find even the rarest jewelry.</p>
 
                             </div>
-                            {/* <img src={slider1} className="d-block w-100" alt="iPhone" height={'500px'}/> */}
+                            {/* <img src={slider1} className="d-block w-100" alt="jewellery" height={'500px'}/> */}
                         </div>
                         <div className="carousel-item">
-                            <img src="../img/slider-2.jpg" alt="iPhone" className="d-block w-100" height={'500px'} />
+                            <img src={slider2} alt="jewellery" className="d-block w-100" height={'500px'} />
                             <div class="carousel-caption d-md-block">
 
                                 <h1>PEARLS ARE ALWAYS APPROPRIATE</h1>
                                 <p>We provide a wide variety of jewelry, from earrings to bracelets. At Olimp, you will
                                     surely find even the rarest jewelry.</p>
                             </div>
-                            {/* <img src={slider1} className="d-block w-100" alt="iPhone" height={'500px'}/> */}
+                            {/* <img src={slider1} className="d-block w-100" alt="jewellery" height={'500px'}/> */}
                         </div>
                         <div className="carousel-item">
-                            <img src="../img/slider-3.jpg" alt="iPhone" className="d-block w-100" height={'500px'} />
+                            <img src={slider3} alt="jewellery" className="d-block w-100" height={'500px'} />
                             <div class="carousel-caption d-md-block">
 
                                 <h1>PEARLS ARE ALWAYS APPROPRIATE</h1>
