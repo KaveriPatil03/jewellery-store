@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-// import img1 from '../img/iPhone1.jpg';
+import img1 from '../img/slider-2.jpg';
 
 
 const About = () => {
@@ -43,7 +43,7 @@ const About = () => {
           </div>
           <div className="col-md-6 d-flex justify-content-center about-img pt-5 mt-5">
             {/* <img src={img1} alt="img" height={'400px'} width={'400px'} /> */}
-            <img src="../img/slider-2.jpg" alt="iPhone" width={'580px'} height={'420px'}/>
+            <img src={img1} alt="iPhone" width={'580px'} height={'420px'}/>
 
           </div>
         </div>

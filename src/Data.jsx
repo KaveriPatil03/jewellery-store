@@ -1,46 +1,52 @@
+import bangle1 from './img/bangle1.jpg';
+import earring1 from './img/earring1.jpg';
+import goldring4 from './img/goldring4.jpg';
+import necklace1 from './img/necklace1.jpeg';
+import pendant1 from './img/pendant1.jpg';
+import platearring7 from './img/platearring7.jpg';
+
 const Data = [
     {
         id: 0,
         title: "Bracelet",
         price: 750,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!",
-        img: "/img/bangle1.jpg"
+        img: bangle1
     },
     {
         id: 1,
         title: "Earrings",
         price: 800,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!",
-        img: "/img/earring1.jpg"
+        img: earring1
     },
     {
         id: 3,
         title: "Ring",
         price: 800,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!",
-        img: "/img/goldring4.jpg"
+        img: goldring4
     },
     {
         id: 4,
         title: "Necklace",
         price: 800,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!",
-
-        img: "/img/necklace1.jpeg"
+        img: necklace1
     },
     {
         id: 5,
         title: "Pendant",
         price: 1200,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!",
-        img: "/img/pendant1.jpg"
+        img: pendant1
     },
     {
         id: 6,
         title: "Earrings",
         price: 800,
         desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!Lorem ipsum dolor sit amet consectetur adipisicing elit.Id doloribus accusantium distinctio ad, fugiat ipsum eos totam? Accusantium, nisi? Saepe!",
-        img: "/img/platearring7.jpg"
+        img: platearring7
     }
 ]
 

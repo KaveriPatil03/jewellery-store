@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import img1 from '../img/neck1.jpg';
 
 const Contact = () => {
   return (
@@ -28,7 +29,7 @@ const Contact = () => {
           </div>
           <div className="row">
             <div className="col-md-6 pt-3 contact-img">
-              <img src="../img/neck1.jpg" alt="contact" height={400} width={620}/>
+              <img src={img1} alt="contact" height={400} width={620}/>
             </div>
             <div className="col-md-6 mt-3">
               <form>
